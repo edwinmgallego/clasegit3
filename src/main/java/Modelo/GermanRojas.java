@@ -4,10 +4,12 @@
  */
 package Modelo;
 
-/**
- *
- * @author Usuario
- */
-public class GermanRojas {
     
+public class GermanRojas {
+   private String nombre;
+   
+   public String mirarNombre(){
+       nombre = "Germán Rojas";
+       return nombre;
+   }
 }
