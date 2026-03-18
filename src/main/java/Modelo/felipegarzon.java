@@ -8,8 +8,25 @@
  * @author felip
  */
 public class felipegarzon {
-    public static void main (String []args){
-        
-        System.out.println("Hello World!, soy felipe garzon");
+    public static void main(String[] args) {
+
+        String[] estudiantes = {
+            "Emgallego10",
+            "Matias",
+            "Sara",
+            "cristiannn",
+            "felipegarzon",
+            "isaquijano",
+            "joxxemola",
+            "samuelbd8",
+            "samuelmurillo03",
+            "yeicaicedo"
+        };
+
+        System.out.println("Lista de estudiantes:");
+
+        for (int i = 0; i < estudiantes.length; i++) {
+            System.out.println(estudiantes[i]);
+        }
     }
 }
