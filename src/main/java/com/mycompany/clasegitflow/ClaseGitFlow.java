@@ -8,9 +8,14 @@ package com.mycompany.clasegitflow;
  *
  * @author emgallego
  */
+import Modelo.isaquijano;
+
 public class ClaseGitFlow {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        isaquijano modelo = new isaquijano();
+        String nombre = modelo.mostrarNombre();
+        System.out.println(nombre);
     }
 }
