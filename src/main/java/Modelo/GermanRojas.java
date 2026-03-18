@@ -9,5 +9,9 @@ package Modelo;
  * @author Usuario
  */
 public class GermanRojas {
+    public static void main (String []args){
+        
+        System.out.println("Prueba de POO");
+    }
     
 }
