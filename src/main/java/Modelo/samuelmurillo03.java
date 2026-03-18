@@ -9,5 +9,10 @@ package Modelo;
  * @author samue
  */
 public class samuelmurillo03 {
+   
     
+    public static void main(String[] args) {
+        System.out.println("samuel Murillo");
+    }
 }
+
