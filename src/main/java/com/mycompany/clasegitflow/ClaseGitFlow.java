@@ -7,13 +7,13 @@ package com.mycompany.clasegitflow;
  *
  * @author emgallego
  */
-import Modelo.yeicaicedo;
+import Modelo.isaquijano;
 
 public class ClaseGitFlow {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        yeicaicedo modelo = new yeicaicedo();
+        System.out.println("TuNombreAqui: ");
+        isaquijano modelo = new isaquijano();
         String nombre = modelo.mostrarNombre();
         System.out.println(nombre);
     }

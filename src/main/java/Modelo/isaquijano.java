@@ -6,11 +6,13 @@ package Modelo;
 
 /**
  *
- * @author Usuario
+ * @author isabe
  */
-public class joxxemola {
-
-    public void Nombre() {
-        System.out.println("Jose David Molano Perdomo");
-    }
+public class isaquijano {
+   private String nombre;
+   
+   public String mostrarNombre(){
+       nombre = "Isabella Quijano";
+       return nombre;
+   }
 }
