@@ -37,10 +37,15 @@ public class ClaseGitFlow {
          samuelmurillo03 nom = new samuelmurillo03();
         nom.mostrarNombre();
 
+        David modelo2 = new David();
+        System.out.println(modelo2.mostrarNombre());
+
 
     }
 
 }
+
+
     
 
 
