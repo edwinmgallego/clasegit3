@@ -10,5 +10,8 @@ package Modelo;
  */
 public class joxxemola {
 
-    System.out.println("Hello World!, i´m joxxemola");;
+    public static void main (String []args){
+        
+        System.out.println("Hello World!, i´m joxxemola");
+    }
 }
