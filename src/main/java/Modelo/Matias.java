@@ -9,5 +9,7 @@ package Modelo;
  * @author HP
  */
 public class Matias {
-    
+    public void MostrarMatias(){
+        System.out.println("Matias Acevedo");
+    }
 }
