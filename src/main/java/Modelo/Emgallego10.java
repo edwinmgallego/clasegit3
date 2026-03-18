@@ -6,11 +6,8 @@ package Modelo;
 
 /**
  *
- * @author Usuario
+ * @author emgallego
  */
-public class joxxemola {
-
-    public void Nombre() {
-        System.out.println("TuNombreAqui");
-    }
+public class Emgallego10 {
+    
 }
