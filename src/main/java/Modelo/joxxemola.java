@@ -10,8 +10,7 @@ package Modelo;
  */
 public class joxxemola {
 
-    public static void main (String []args){
-        
-        System.out.println("Hello World!, i´m joxxemola");
+    public void Nombre() {
+        System.out.println("Jose David Molano Perdomo");
     }
 }

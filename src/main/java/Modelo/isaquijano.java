@@ -9,5 +9,10 @@ package Modelo;
  * @author isabe
  */
 public class isaquijano {
-    
+   private String nombre;
+   
+   public String mostrarNombre(){
+       nombre = "Isabella Quijano";
+       return nombre;
+   }
 }
