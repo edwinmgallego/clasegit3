@@ -8,6 +8,6 @@ package modelo;
  *
  * @author rosam
  */
-public class Rosenrot05 {
-    
-}
+public class Rosenrot05 { 
+    //System.out.println("Hola");
+} 
