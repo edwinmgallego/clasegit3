@@ -9,11 +9,11 @@ package Modelo;
  * @author USUARIO
  */
 public class yeicaicedo {
-    private String nombre;
+    private String nom;
     
-    public String mostrarNombre(){
-        nombre = "Yeidy Caicedo";
-       return nombre;
+    public String mostrarNombre1(){
+        nom = "Yeidy Caicedo";
+       return nom;
     }
     
 }
