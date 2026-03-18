@@ -6,5 +6,10 @@ package Modelo;
 
     
 public class GermanRojas {
-    
+   private String nombre;
+   
+   public String mirarNombre(){
+       nombre = "Germán Rojas";
+       return nombre;
+   }
 }
