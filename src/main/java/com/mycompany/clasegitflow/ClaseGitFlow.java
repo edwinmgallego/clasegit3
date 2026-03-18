@@ -8,9 +8,42 @@ package com.mycompany.clasegitflow;
  *
  * @author emgallego
  */
+import Modelo.Matias;
 public class ClaseGitFlow {
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      Matias matias = new Matias();  
+       matias.MostrarMatias();
     }
 }
