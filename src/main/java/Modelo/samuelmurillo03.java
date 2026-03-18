@@ -11,7 +11,7 @@ package Modelo;
 public class samuelmurillo03 {
    
     
-    public static void main(String[] args) {
+    public void mostrarNombre() {
         System.out.println("samuel Murillo");
     }
 }
