@@ -10,9 +10,13 @@ package com.mycompany.clasegitflow;
  */
 public class ClaseGitFlow {
 
-    public static void main(String[] args) {
-        System.out.println("listas de los estudiantes PRO");
-        
-        
+       public static void main(String[] args) {
+        imprimirNombreCompleto();
+    }
+
+    public static void imprimirNombreCompleto() {
+        String nombreCompleto = "MARTIN ESTEBAN COLLAZOS GOMEZ";
+        System.out.println("Mi nombre completo es: " + nombreCompleto);
     }
 }
+
