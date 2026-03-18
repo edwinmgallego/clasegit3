@@ -11,6 +11,6 @@ package Modelo;
 public class joxxemola {
 
     public void Nombre() {
-        System.out.println("Jose David Molano Perdomo");
+        System.out.println("Jose David Molano Perdomoo");
     }
 }
