@@ -1,8 +1,8 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
 package com.mycompany.clasegitflow;
+import Modelo.samuelbd8;
 
 /**
  *
@@ -11,6 +11,12 @@ package com.mycompany.clasegitflow;
 public class ClaseGitFlow {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+     
+     
+        samuelbd8 consultor = new samuelbd8 ("Samuel Beltran");
+        
+        System.out.println("El nombre es: " + consultor.getNombre());
     }
 }
+    
+
