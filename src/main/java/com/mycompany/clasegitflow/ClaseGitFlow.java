@@ -9,6 +9,7 @@ package com.mycompany.clasegitflow;
  * @author emgallego
  */
 import Modelo.isaquijano;
+import Modelo.cristiannn;
 
 public class ClaseGitFlow {
 
@@ -17,5 +18,8 @@ public class ClaseGitFlow {
         isaquijano modelo = new isaquijano();
         String nombre = modelo.mostrarNombre();
         System.out.println(nombre);
+        cristiannn modelopr =new cristiannn();
+        System.out.println(modelopr.nombre());
+        
     }
 }

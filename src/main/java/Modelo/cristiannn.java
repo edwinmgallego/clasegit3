@@ -9,5 +9,10 @@ package Modelo;
  * @author cristian.torres_m
  */
 public class cristiannn {
-    
+    public cristiannn(){
+}   
+    public String nombre() {
+        String name="Cristian";
+        return(name);
+    }
 }
