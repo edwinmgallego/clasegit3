@@ -4,10 +4,16 @@
  */
 package modelo;
 
-/**
- *
- * @author ratap
- */
 public class yaelbotero {
-    //cimentario
+
+    public static void mostrarMensajeNombre() {
+        String nombre = "Hola soy Yael";
+
+        System.out.println(nombre);
+    }
+
+    public static void main(String[] args) {
+
+        mostrarMensajeNombre();
+    }
 }
