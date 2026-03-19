@@ -9,9 +9,10 @@ package Modelo;
  * @author felip
  */
 public class isaquijano {
+   private String nombre;
 
-    public String mostrarNombre() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-    
+   public String mostrarNombre(){
+       nombre = "Isabella Quijano";
+       return nombre;
+   }
 }

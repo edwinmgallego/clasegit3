@@ -4,14 +4,17 @@
  */
 package Modelo;
 
-/**
+
+ /**
  *
+ * 
+
  * @author samue
  */
+
 public class samuelmurillo03 {
 
     public void mostrarNombre() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Samuel Murillo");
     }
-    
 }

@@ -9,12 +9,13 @@ package Modelo;
  * @author samue
  */
 public class samuelbd8 {
+    private String nombre;
 
-    public samuelbd8(String samuel_Beltran) {
+    public samuelbd8(String nombre){
+        this.nombre = nombre;
     }
 
-    public String getNombre() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    public String getNombre(){
+        return nombre;
     }
-    
 }
