@@ -9,5 +9,12 @@ package Modelo;
  * @author samue
  */
 public class samuelbd8 {
+
+    public samuelbd8(String samuel_Beltran) {
+    }
+
+    public String getNombre() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
 }
