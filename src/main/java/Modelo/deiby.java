@@ -9,5 +9,9 @@ package Modelo;
  * @author User
  */
 public class deiby {
-    
+    public void mostrarNombre() {
+        System.out.println("Deiby Paredes");
+    }
 }
+    
+
